@@ -184,4 +184,4 @@ export default defineConfig({
 
 ## 联系方式
 
-如有问题，请提交 [Issue](https://github.com/yourusername/project/issues)
+如有问题，请提交 [Issue](https://github.com/smilv/cursor-vue3-admin/issues)
