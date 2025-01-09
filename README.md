@@ -1,4 +1,4 @@
-# Vue 3 项目模板（全部内容由cursor创建）
+# Vue 3 项目模板（cursor）
 
 一个基于 Vue 3 + TypeScript + Vite 的项目模板。
 
